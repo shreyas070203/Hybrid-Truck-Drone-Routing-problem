@@ -5,29 +5,29 @@ My Final year project at NIT Calicut
 Here is a selection of key slides from the project presentation.
 
 ---
-### Slide 1: Title
+### Title
 ![Slide 1](Slide1.PNG)
 
 ---
-### Slide 11: System Architecture
+### Literature Review 
 ![Slide 11](Slide11.PNG)
 
 ---
-### Slide 20: Methodology
+### Problem Statement
 ![Slide 20](Slide20.PNG)
 
 ---
-### Slide 23: Data Preprocessing
+### Clusters
 ![Slide 23](Slide23.PNG)
 
 ---
-### Slide 36: Model Training
+### NITC Locations
 ![Slide 36](Slide36.PNG)
 
 ---
-### Slide 39: Results
+### NITC Clusters
 ![Slide 39](Slide39.PNG)
 
 ---
-### Slide 40: Conclusion
+### Results Comparison
 ![Slide 40](Slide40.PNG)
